@@ -1,2 +1,2 @@
 # ArchColombia
-REpositorio de Recursos de Arch Colombia
+Repositorio de Recursos de Arch Colombia
